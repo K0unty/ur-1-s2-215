@@ -4,3 +4,12 @@
 # Details
 
 > Made for Section 15 onwards when lerning about react
+
+# Noteza
+
+## Problems with the script 
+
+```sh 
+<script type="module" src="/src/index.jsx"></script></body>
+```
+- You were having troube her e, be
